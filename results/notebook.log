@@ -1,0 +1,52 @@
+2026-10-12 02:52:26  logging to /run/media/advaitam/OS/Users/advay/Desktop/coding-stuff/rds-paper-implementation/results/notebook.log
+2026-10-12 02:52:33  fold 0: criteria DNN
+2026-10-12 02:52:35    epoch 01  val_mae 0.7981
+2026-10-12 02:52:35    epoch 02  val_mae 0.7935
+2026-10-12 02:52:36    epoch 03  val_mae 0.8232
+2026-10-12 02:52:36    epoch 04  val_mae 0.8124
+2026-10-12 02:52:36    epoch 05  val_mae 0.8165
+2026-10-12 02:52:36    epoch 06  val_mae 0.8242
+2026-10-12 02:52:37    epoch 07  val_mae 0.8308
+2026-10-12 02:52:37  fold 0: overall DNN on true z-scored criteria
+2026-10-12 02:52:37    epoch 01  val_mae 0.8581
+2026-10-12 02:52:37    epoch 02  val_mae 0.4261
+2026-10-12 02:52:37    epoch 03  val_mae 0.3372
+2026-10-12 02:52:37    epoch 04  val_mae 0.3157
+2026-10-12 02:52:37    epoch 05  val_mae 0.3121
+2026-10-12 02:52:38    epoch 06  val_mae 0.3060
+2026-10-12 02:52:38    epoch 07  val_mae 0.3036
+2026-10-12 02:52:38    epoch 08  val_mae 0.2979
+2026-10-12 02:52:38    epoch 09  val_mae 0.2901
+2026-10-12 02:52:38    epoch 10  val_mae 0.2900
+2026-10-12 02:52:38    epoch 11  val_mae 0.2907
+2026-10-12 02:52:38    epoch 12  val_mae 0.2926
+2026-10-12 02:52:39    epoch 13  val_mae 0.2862
+2026-10-12 02:52:39    epoch 14  val_mae 0.2854
+2026-10-12 02:52:39    epoch 15  val_mae 0.2873
+2026-10-12 02:52:39    epoch 16  val_mae 0.2808
+2026-10-12 02:52:39    epoch 17  val_mae 0.2808
+2026-10-12 02:52:39    epoch 18  val_mae 0.2805
+2026-10-12 02:52:39    epoch 19  val_mae 0.2783
+2026-10-12 02:52:40    epoch 20  val_mae 0.2831
+2026-10-12 02:52:40    epoch 21  val_mae 0.2753
+2026-10-12 02:52:40    epoch 22  val_mae 0.2747
+2026-10-12 02:52:40    epoch 23  val_mae 0.2728
+2026-10-12 02:52:40    epoch 24  val_mae 0.2737
+2026-10-12 02:52:40    epoch 25  val_mae 0.2690
+2026-10-12 02:52:40    epoch 26  val_mae 0.2722
+2026-10-12 02:52:41    epoch 27  val_mae 0.2644
+2026-10-12 02:52:41    epoch 28  val_mae 0.2731
+2026-10-12 02:52:41    epoch 29  val_mae 0.2721
+2026-10-12 02:52:41    epoch 30  val_mae 0.2652
+2026-10-12 02:52:44  fold 0: single DNN
+2026-10-12 02:52:45    epoch 01  val_mae 0.7934
+2026-10-12 02:52:46    epoch 02  val_mae 0.8175
+2026-10-12 02:52:47    epoch 03  val_mae 0.8028
+2026-10-12 02:52:48    epoch 04  val_mae 0.8106
+2026-10-12 02:52:49    epoch 05  val_mae 0.7948
+2026-10-12 02:52:50    epoch 06  val_mae 0.8238
+2026-10-12 02:53:00  fold 0: baseline
+2026-10-12 02:53:02  fold 0: knn
+2026-10-12 02:53:04  fold 0: slope_one
+2026-10-12 02:53:05  fold 0: svd
+2026-10-12 02:53:19  fold 0: svdpp
